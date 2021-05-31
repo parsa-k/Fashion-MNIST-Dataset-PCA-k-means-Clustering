@@ -11,11 +11,11 @@ PCA output\
 \
 \
 clustering result\
-![clastring result](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/clastring%20result.PNG)\
+![clustering result](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/clastring%20result.PNG)\
 \
 \
 clustering result plot\
-![clastring result plot](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/clastring%20result%20plot.PNG)
+![clustering result plot](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/clastring%20result%20plot.PNG)
 
 
 
