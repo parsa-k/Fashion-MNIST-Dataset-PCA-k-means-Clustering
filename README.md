@@ -3,7 +3,19 @@
  - you can download Fashion MNIST Dataset from https://www.kaggle.com/zalando-research/fashionmnist/code
  - Clustered in 10 classes.
  - you can find accuracy of model in result section 
-
+\
+# result
+\
+PCA output
+![PCA output](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/PCA%20output.PNG)\
+\
+\
+clastring result
+![clastring result](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/clastring%20result.PNG)\
+\
+\
+clastring result plot
+![clastring result plot](https://raw.githubusercontent.com/parsa-k/Fashion-MNIST-Dataset-PCA-k-means-Clustering/main/result/clastring%20result%20plot.PNG)
 
 
 
